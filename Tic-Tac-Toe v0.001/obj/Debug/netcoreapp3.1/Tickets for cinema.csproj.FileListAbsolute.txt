@@ -1,0 +1,13 @@
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.AssemblyInfoInputs.cache
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.AssemblyInfo.cs
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.csproj.CoreCompileInputs.cache
+C:\Users\gazar\source\repos\Tickets for cinema\bin\Debug\netcoreapp3.1\Tickets for cinema.exe
+C:\Users\gazar\source\repos\Tickets for cinema\bin\Debug\netcoreapp3.1\Tickets for cinema.deps.json
+C:\Users\gazar\source\repos\Tickets for cinema\bin\Debug\netcoreapp3.1\Tickets for cinema.runtimeconfig.json
+C:\Users\gazar\source\repos\Tickets for cinema\bin\Debug\netcoreapp3.1\Tickets for cinema.runtimeconfig.dev.json
+C:\Users\gazar\source\repos\Tickets for cinema\bin\Debug\netcoreapp3.1\Tickets for cinema.dll
+C:\Users\gazar\source\repos\Tickets for cinema\bin\Debug\netcoreapp3.1\Tickets for cinema.pdb
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.dll
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.pdb
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.genruntimeconfig.cache
+C:\Users\gazar\source\repos\Tickets for cinema\obj\Debug\netcoreapp3.1\Tickets for cinema.csproj.AssemblyReference.cache

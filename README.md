@@ -1,4 +1,4 @@
-# First-CSharp-project-Tic-Tac-Toe. \n
-The game is played with the arrows keys. \n
-To confirm your selection press 'Enter'. \n
-At the end you can start another match or leave the program. \n
+# First-CSharp-project-Tic-Tac-Toe. 
+The game is played with the arrows keys. 
+To confirm your selection press 'Enter'. 
+At the end you can start another match or leave the program. 
